@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    text-align: left;
+    color: rgb(104, 40, 177);
+}
+
+.div-left {
+    margin-left: -50px;
+}
+
+.div-right {
+    margin-left: 50px;
+}
